@@ -17,6 +17,7 @@ touch client/main.html client/main.js
 touch lib/permissions.js lib/router.js
 touch server/fixtures.js server/publications.js
 
+# Initialize .gitignore file
 cat >.gitignore <<EOL
 # Created by https://www.gitignore.io
 
